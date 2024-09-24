@@ -1,0 +1,12 @@
+(A) 13
+(B) 2024-09-22 23:40:33 -0500
+(C) git checkout `git rev-list -1 --before="2020-06-01" main`
+(D) There weren't there since the beginning
+(E) Wasn't in the beginning in the GitHub.
+(F) Git log shows the entire history and Git status show the current state of directory
+(G) Git shortog does it shows the summarization of the comment history and the comments of the authors. 
+(H) git log -- Main.java
+(I) git log -p --follow -- Main.java is to show the list commits even renames and diffs
+(J) git log --grep="account" massages with the word "Account
+(K) git log --author="Author Name" name needs to be very specific 
+(i) git log --author="Lauren" --since="2014-01-05" --until="2024-01-14"
